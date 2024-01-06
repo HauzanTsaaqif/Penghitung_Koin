@@ -10,3 +10,5 @@
 ### 4. Coba aplikasi dengan background berwarna hitam dan penerangan yang cukup.
 
 # Proses Pembuatan
+#### 1. Gathering data atau mengumpulkan data satu persatu
+![Gambar Kumpulan data yang digunakan](hasil_pengukuran/logo.png)
