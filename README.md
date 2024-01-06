@@ -11,4 +11,6 @@
 
 # Proses Pembuatan
 #### 1. Gathering data atau mengumpulkan data satu persatu
-![Gambar Kumpulan data yang digunakan](hasil_pengukuran/logo.png)
+![Gambar Kumpulan data yang digunakan](hasil_pengukuran/img_1.png)
+#### 2. Labeling Image atau memberikan label pada object yang ingin dideteksi
+![Gambar Contoh Labeling Image](hasil_pengukuran/img_5.png)
