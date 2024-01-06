@@ -6,4 +6,7 @@
 
 ### 1. Pull atau download source code dari github.
 ### 2. Install requirement library yang dibutuhkan.
-### 3. Buka main.py dan jalankan program
+### 3. Buka main.py dan jalankan program.
+### 4. Coba aplikasi dengan background berwarna hitam dan penerangan yang cukup.
+
+# Proses Pembuatan
